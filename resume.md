@@ -23,7 +23,8 @@ Doświadczenie zawodowe
 
     Tworzenie od podstaw aplikacji mobilnej służącej do zarządzania połączeniami wygenerowanymi przez system Callpage.
 
-    [Aplikacja w sklepie Google Play](https://play.google.com/store/apps/details?id=io.callpage.crm)
+    Aplikacja w sklepie Google Play:\
+    [https://play.google.com/store/apps/details?id=io.callpage.crm](https://play.google.com/store/apps/details?id=io.callpage.crm)
 
     Technologie:
 
@@ -46,12 +47,14 @@ Grudzień 2017
     * Retrofit, GSON, Picasso
     * CircleCi, Jacoco, Codecov.io
 
-    Kod źródłowy projektu: [https://github.com/pchmielowski/Github-client](https://github.com/pchmielowski/Github-client)
+    Kod źródłowy projektu:\
+    [https://github.com/pchmielowski/Github-client](https://github.com/pchmielowski/Github-client)
 
 01.2017 - 04.2017
 :   Programista aplikacji mobilnych - **Pega**
 
-    Praca w zespole rozwijającym aplikację mobilną na systemy Android i iOS. Używane języki: JavaScript, Java, Objective-C
+    Praca w zespole rozwijającym aplikację mobilną na systemy Android i iOS.\
+    Używane języki: JavaScript, Java, Objective-C
 
 11.2014 - 09.2016 
 :   Programista aplikacji  - **Ericpol/Ericsson**
