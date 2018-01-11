@@ -53,13 +53,14 @@ Grudzień 2017
 01.2017 - 04.2017
 :   Programista aplikacji mobilnych - **Pega**
 
-    Praca w zespole rozwijającym aplikację mobilną na systemy Android i iOS.\
-    Używane języki: JavaScript, Java, Objective-C
+    Praca w zespole tworzącym aplikację mobilną na systemy Android i iOS.\
+    Rozwijanie i utrzymywanie natywnych komponentów dla obu systemów (Java, Objective-C) oraz wspólnej warstwy aplikacyjnej w języku JavaScript.
+
 
 11.2014 - 09.2016 
-:   Programista aplikacji  - **Ericpol/Ericsson**
+:   Programista w obszarze telekomunikacji - **Ericpol/Ericsson**
 
-    Praca w zespole rozwijającym system przeznaczony do testów obciążeniowych sieci telefonicznych GSM, IMS i LTE.
+    Praca w zespole rozwijającym system przeznaczony do testów obciążeniowych sieci GSM, IMS i LTE.
 
     Technologie:
 
