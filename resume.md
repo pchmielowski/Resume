@@ -21,7 +21,7 @@ Doświadczenie zawodowe
 04.2017 - teraz 
 :   Programista aplikacji na Android - **Callpage**
 
-    Tworzenie od zera aplikacji mobilnej służącej do zarządzania połączeniami wygenerowanymi przez system Callpage.
+    Tworzenie od podstaw aplikacji mobilnej służącej do zarządzania połączeniami wygenerowanymi przez system Callpage.
 
     [Aplikacja w sklepie Google Play](https://play.google.com/store/apps/details?id=io.callpage.crm)
 
