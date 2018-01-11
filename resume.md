@@ -12,50 +12,57 @@ Edukacja
 ---------
 
 2009-2014
-:   **Inżyniera Akustyczna**; Akademia Górniczo-Hutnicza w Krakowie
+:   Inżyniera Akustyczna - **Akademia Górniczo-Hutnicza w Krakowie**
 
-    Magister inżynier
+    Tytuł: magister inżynier
 
 Doświadczenie zawodowe
 ----------
 04.2017 - teraz 
-:   Programista aplikacji na Android **Callpage**
+:   Programista aplikacji na Android - **Callpage**
 
-Tworzenie od zera aplikacji mobilnej służącej do zarządzania połączeniami wygenerowanymi przez system Callpage.
+    Tworzenie od zera aplikacji mobilnej służącej do zarządzania połączeniami wygenerowanymi przez system Callpage.
 
-[Aplikacja w sklepie Google Play](https://play.google.com/store/apps/details?id=io.callpage.crm)
+    [Aplikacja w sklepie Google Play](https://play.google.com/store/apps/details?id=io.callpage.crm)
 
-Technologie:
+    Technologie:
 
-* Dagger2
-* RxJava
-* Realm
-* Retrofit, GSON, Picasso
-* Firebase Messaging
-* Stetho, LeakCanary, Sentry
+    * Dagger2
+    * RxJava
+    * Realm
+    * Retrofit, GSON, Picasso
+    * Firebase Messaging
+    * Stetho, LeakCanary, Sentry
+    * Python, Flask
 
 Grudzień 2017
-:   **Prywatny projekt** Aplikacja na system Android służąca do przeglądania serwisu Github
+:   Prosty klient REST API serwisu Github - **(Prywatny projekt)**
 
-Prosty klient REST API serwisu Github.
+    Aplikacja na system Android.
 
-[Kod źródłowy projektu](https://github.com/pchmielowski/Github-client)
+    * Dagger2
+    * RxJava
+    * Realm
+    * Retrofit, GSON, Picasso
+    * CircleCi, Jacoco, Codecov.io
+
+    Kod źródłowy projektu: [https://github.com/pchmielowski/Github-client](https://github.com/pchmielowski/Github-client)
 
 01.2017 - 04.2017
-:   Programista aplikacji mobilnych **Pega**
+:   Programista aplikacji mobilnych - **Pega**
 
-Praca w zespole rozwijającym aplikację mobilną na systemy Android i iOS. Używane języki: JavaScript, Java, Objective-C
+    Praca w zespole rozwijającym aplikację mobilną na systemy Android i iOS. Używane języki: JavaScript, Java, Objective-C
 
 11.2014 - 09.2016 
-:   Programista **Ericpol/Ericsson**
+:   Programista aplikacji  - **Ericpol/Ericsson**
 
-Praca w zespole rozwijającym **Titansim** - system przeznaczony do testów obciążeniowych sieci telefonicznych.
+    Praca w zespole rozwijającym system przeznaczony do testów obciążeniowych sieci telefonicznych GSM, IMS i LTE.
 
-Technologie:
+    Technologie:
 
-* TTCN, C++
-* Docker
-* Stos TCP/IP, SIP, Diameter, SS7
+    * TTCN, C++
+    * Docker
+    * Stos TCP/IP, SIP, Diameter, SS7
 
 Umiejętności
 ----------------------------------------
