@@ -69,12 +69,10 @@ Umiejętności
 
 * Języki programowania:
 
-|                     |       |
-|---------------------|-------|
-| Java                | 4,5/5 |
-| Kotlin, C++, Python |  3/5  |
-| JavaScript          |  2/5  |
-| Haskell             |  1/5  |
+    * Java                 (4,5/5)
+    * Kotlin, C++           (3/5)
+    * JavaScript, Python    (2/5)
+    * Haskell               (1/5)
 
 * Języki obce:
 
