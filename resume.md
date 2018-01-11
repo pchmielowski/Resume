@@ -1,100 +1,76 @@
-Johnny Coder
+Piotr Chmielowski
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> <piotrek.chmielowski@interia.pl> • +48 607 98 43 44\
+> Data urodzenia: 17.06.1990 • Miejsce zamieszkania: Kraków
 
 ----
 
-Education
+Edukacja
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2009-2014
+:   **Inżyniera Akustyczna**; Akademia Górniczo-Hutnicza w Krakowie
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Magister inżynier
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Doświadczenie zawodowe
 ----------
+04.2017 - teraz 
+:   Programista aplikacji na Android **Callpage**
 
-**Your Most Recent Work Experience:**
+Tworzenie od zera aplikacji mobilnej służącej do zarządzania połączeniami wygenerowanymi przez system Callpage.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+[Aplikacja w sklepie Google Play](https://play.google.com/store/apps/details?id=io.callpage.crm)
 
-* First item
+Technologie:
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Dagger2
+* RxJava
+* Realm
+* Retrofit, GSON, Picasso
+* Firebase Messaging
+* Stetho, LeakCanary, Sentry
 
-**That Other Job You Had**
+Grudzień 2017
+:   **Prywatny projekt** Aplikacja na system Android służąca do przeglądania serwisu Github
 
-Also with a short description.
+Prosty klient REST API serwisu Github.
 
-Technical Experience
---------------------
+[Kod źródłowy projektu](https://github.com/pchmielowski/Github-client)
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+01.2017 - 04.2017
+:   Programista aplikacji mobilnych **Pega**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Praca w zespole rozwijającym aplikację mobilną na systemy Android i iOS. Używane języki: JavaScript, Java, Objective-C
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+11.2014 - 09.2016 
+:   Programista **Ericpol/Ericsson**
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Praca w zespole rozwijającym **Titansim** - system przeznaczony do testów obciążeniowych sieci telefonicznych.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Technologie:
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+* TTCN, C++
+* Docker
+* Stos TCP/IP, SIP, Diameter, SS7
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Umiejętności
 ----------------------------------------
 
-* Human Languages:
+* Języki programowania:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+|                     |       |
+|---------------------|-------|
+| Java                | 4,5/5 |
+| Kotlin, C++, Python |  3/5  |
+| JavaScript          |  2/5  |
+| Haskell             |  1/5  |
 
-* Random tidbit
+* Języki obce:
 
-* Other sort of impressive-sounding thing you did
+    * Angielski (B2)
+    * Włoski (A1)
 
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
